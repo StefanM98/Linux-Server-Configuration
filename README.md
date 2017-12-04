@@ -1,9 +1,9 @@
 # Linux-Server-Configuration
 # Server Details
 
-Public IP address: 18.217.11.75
-SSH Port: 2200
-URL: http://ec2-18-217-11-75.us-east-2.compute.amazonaws.com/
+- Public IP address: 18.217.11.75
+- SSH Port: 2200
+- URL: http://ec2-18-217-11-75.us-east-2.compute.amazonaws.com/
 
 # Configuration Changes
 - Added new 'grader' user
